@@ -7,6 +7,21 @@ const app = express();
 const router = jsonServer.router("db.json");
 const middlewares = jsonServer.defaults();
 
+// app.use((req, res, next) => {
+//   res.header("Access-Control-Allow-Origin", "*"); // or specific domain
+//   res.header(
+//     "Access-Control-Allow-Methods",
+//     "GET, POST, PUT, PATCH, DELETE, OPTIONS"
+//   );
+//   res.header("Access-Control-Allow-Headers", "Content-Type, Authorization");
+
+//   // Handle preflight requests
+//   if (req.method === "OPTIONS") {
+//     return res.sendStatus(200);
+//   }
+
+//   next();
+// });
 // Optional: Add custom routes before json-server
 app.get("/", (req, res) => {
   res.json({
@@ -30,9 +45,9 @@ app.use("/api", middlewares);
 app.use("/api", router);
 
 // Start server
-app.listen(3000, () => {
-  console.log("Server running on http://localhost:3000");
-  console.log("API available at http://localhost:3000/api");
+app.listen(5000, () => {
+  console.log("Server running on http://localhost:5000");
+  console.log("API available at http://localhost:5000/api");
   console.log("\nEndpoints:");
   console.log("  GET    /api/products");
   console.log("  GET    /api/products/:id");
