@@ -1,0 +1,341 @@
+{
+  "products": [
+    {
+      "createdAt": "2025-10-26T22:56:57.358Z",
+      "updatedAt": "2025-10-26T22:56:57.358Z",
+      "name": "Wireless Bluetooth Headphones11",
+      "price": "89.99",
+      "category": "Electronics",
+      "stock": "32",
+      "description": "Noise-cancelling over-ear headphones with 30-hour battery life.",
+      "image": "https://i5.walmartimages.com/seo/Joyfy-3-Pcs-Halloween-Hanging-Ghosts-Decorations-27-5-Cute-Flying-Ghosts-Outdoor-Hanging-Halloween-Decorations-Yard-Decorations_f5b095db-289c-4f4d-b3a8-461226e44b3f.c48c51bdba21f1e640049508c585848e.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "name": "Stainless Steel Water Bottle",
+      "category": "Lifestyle",
+      "price": 24.5,
+      "stock": 120,
+      "rating": 4.8,
+      "description": "Insulated bottle keeps drinks cold for 24h or hot for 12h.",
+      "image": "/images/products/water-bottle.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Mechanical Gaming Keyboard",
+      "category": "Electronics",
+      "price": 129,
+      "stock": 48,
+      "rating": 4.9,
+      "description": "RGB backlit keyboard with tactile switches and metal frame.",
+      "image": "/images/products/gaming-keyboard.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Cotton Graphic T-Shirt",
+      "category": "Clothing",
+      "price": 19.99,
+      "stock": 200,
+      "rating": 4.3,
+      "description": "Soft 100% cotton t-shirt with modern fit and stylish print.",
+      "image": "/images/products/tshirt.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Running Sneakers",
+      "category": "Footwear",
+      "price": 74.99,
+      "stock": 65,
+      "rating": 4.5,
+      "description": "Lightweight breathable running shoes for everyday use.",
+      "image": "/images/products/sneakers.jpg"
+    },
+    {
+      "id": 8,
+      "name": "4K UHD Smart TV 55”",
+      "category": "Electronics",
+      "price": 699,
+      "stock": 10,
+      "rating": 4.8,
+      "description": "55-inch Smart TV with HDR10+ and built-in streaming apps.",
+      "image": "/images/products/4k-tv.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Portable Power Bank 20000mAh",
+      "category": "Electronics",
+      "price": 45,
+      "stock": 75,
+      "rating": 4.6,
+      "description": "High-capacity fast-charging power bank with dual USB ports.",
+      "image": "/images/products/power-bank.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Minimalist Leather Wallet",
+      "category": "Accessories",
+      "price": 29.99,
+      "stock": 80,
+      "rating": 4.4,
+      "description": "Slim, durable wallet with RFID protection and 8 card slots.",
+      "image": "/images/products/wallet.jpg"
+    },
+    {
+      "createdAt": "2025-10-17T08:17:47.783Z",
+      "updatedAt": "2025-10-17T08:17:47.783Z",
+      "name": "safsaf",
+      "price": 13,
+      "stock": 23,
+      "description": "safasfgf asgas ",
+      "id": 11
+    },
+    {
+      "createdAt": "2025-10-17T08:18:47.500Z",
+      "updatedAt": "2025-10-17T08:18:47.500Z",
+      "name": "sdfdsf",
+      "price": 23,
+      "stock": 13,
+      "description": "sdgd gsd sd ",
+      "imageUrl": "dsg sdg ",
+      "id": 12
+    },
+    {
+      "createdAt": "2025-10-17T08:18:47.500Z",
+      "updatedAt": "2025-10-17T08:18:47.500Z",
+      "name": "sdfdsfasd",
+      "price": 232,
+      "stock": 133,
+      "description": "sdgd gsd sd ",
+      "imageUrl": "dsg sdg ",
+      "id": 13
+    },
+    {
+      "createdAt": "2025-10-17T08:18:47.500Z",
+      "updatedAt": "2025-10-17T08:18:47.500Z",
+      "name": "sdfdsfasd",
+      "price": 232,
+      "category": {
+        "id": "books",
+        "label": "Books"
+      },
+      "stock": 133,
+      "description": "sdgd gsd sd ",
+      "imageUrl": "dsg sdg ",
+      "id": 14
+    },
+    {
+      "createdAt": "2025-10-17T08:18:47.500Z",
+      "updatedAt": "2025-10-17T08:18:47.500Z",
+      "name": "sdfdsfasd",
+      "price": 232,
+      "category": "sasaf",
+      "stock": 133,
+      "description": "sdgd gsd sd ",
+      "imageUrl": "dsg sdg ",
+      "id": 15
+    },
+    {
+      "createdAt": "2025-10-17T08:18:47.500Z",
+      "updatedAt": "2025-10-17T08:18:47.500Z",
+      "name": "sdfdsfasd",
+      "price": 232,
+      "category": "sadasdfffff",
+      "stock": 133,
+      "description": "sdgd gsd sd ",
+      "imageUrl": "dsg sdg ",
+      "id": 16
+    },
+    {
+      "createdAt": "2025-10-17T08:18:47.500Z",
+      "updatedAt": "2025-10-17T08:18:47.500Z",
+      "name": "sdfdsfasd",
+      "price": 232,
+      "category": "sadasdfffff",
+      "stock": 133,
+      "description": "sdgd gsd sd ",
+      "imageUrl": "dsg sdg sad",
+      "id": 17
+    },
+    {
+      "createdAt": "2025-10-17T08:30:13.946Z",
+      "updatedAt": "2025-10-17T08:30:13.946Z",
+      "name": "sfsf",
+      "price": 23,
+      "category": "Toys",
+      "stock": 112,
+      "description": "asrf",
+      "imageUrl": "wr",
+      "id": 18
+    },
+    {
+      "createdAt": "2025-10-17T09:28:50.726Z",
+      "updatedAt": "2025-10-17T09:28:50.726Z",
+      "name": "jhjkhk",
+      "price": 756,
+      "category": "Toys",
+      "stock": 12,
+      "description": "kjhjkb kjghkj k",
+      "image": "https://example.com/imge.jpg",
+      "id": 19
+    }
+  ],
+  "users": [
+    {
+      "email": "nbhjhbjh",
+      "password": "jkbhjkhkj",
+      "name": "jkhjk",
+      "createdAt": "2025-10-18T08:33:58.834Z",
+      "id": 1
+    },
+    {
+      "email": "far3farazdel@gmail.com",
+      "password": "12345678",
+      "name": "farshad",
+      "createdAt": "2025-10-21T21:41:20.860Z",
+      "orders": [
+        {
+          "createdAt": "2025-10-19T11:32:37.709Z",
+          "updatedAt": "2025-10-19T11:32:37.709Z",
+          "name": "Ergonomic Office Chair",
+          "price": 199.99,
+          "category": "Furniture",
+          "stock": 13,
+          "description": "Adjustable lumbar support and breathable mesh backrest.",
+          "image": "https://example.com/image.jpg",
+          "id": 4,
+          "count": 1
+        },
+        {
+          "id": 3,
+          "name": "Stainless Steel Water Bottle",
+          "category": "Lifestyle",
+          "price": 24.5,
+          "stock": 120,
+          "rating": 4.8,
+          "description": "Insulated bottle keeps drinks cold for 24h or hot for 12h.",
+          "image": "/images/products/water-bottle.jpg",
+          "count": 1
+        },
+        {
+          "id": 1,
+          "name": "Wireless Bluetooth Headphones",
+          "category": "Electronics",
+          "price": 89.99,
+          "stock": 32,
+          "rating": 4.6,
+          "description": "Noise-cancelling over-ear headphones with 30-hour battery life.",
+          "image": "https://i5.walmartimages.com/seo/Joyfy-3-Pcs-Halloween-Hanging-Ghosts-Decorations-27-5-Cute-Flying-Ghosts-Outdoor-Hanging-Halloween-Decorations-Yard-Decorations_f5b095db-289c-4f4d-b3a8-461226e44b3f.c48c51bdba21f1e640049508c585848e.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+          "count": 1
+        }
+      ],
+      "id": 2,
+      "purchasedItems": [
+        {
+          "createdAt": "2025-10-19T11:32:37.709Z",
+          "updatedAt": "2025-10-19T11:32:37.709Z",
+          "name": "Ergonomic Office Chair",
+          "price": 199.99,
+          "category": "Furniture",
+          "stock": 13,
+          "description": "Adjustable lumbar support and breathable mesh backrest.",
+          "image": "https://example.com/image.jpg",
+          "id": 4,
+          "count": 1,
+          "purchasedAt": "2025-10-23T21:09:27.623Z"
+        },
+        {
+          "id": 5,
+          "name": "Mechanical Gaming Keyboard",
+          "category": "Electronics",
+          "price": 129,
+          "stock": 48,
+          "rating": 4.9,
+          "description": "RGB backlit keyboard with tactile switches and metal frame.",
+          "image": "/images/products/gaming-keyboard.jpg",
+          "count": 2,
+          "purchasedAt": "2025-10-23T21:09:27.623Z"
+        },
+        {
+          "id": 3,
+          "name": "Stainless Steel Water Bottle",
+          "category": "Lifestyle",
+          "price": 24.5,
+          "stock": 120,
+          "rating": 4.8,
+          "description": "Insulated bottle keeps drinks cold for 24h or hot for 12h.",
+          "image": "/images/products/water-bottle.jpg",
+          "count": 1,
+          "purchasedAt": "2025-10-23T21:09:27.623Z"
+        },
+        {
+          "id": 1,
+          "name": "Wireless Bluetooth Headphones",
+          "category": "Electronics",
+          "price": 89.99,
+          "stock": 32,
+          "rating": 4.6,
+          "description": "Noise-cancelling over-ear headphones with 30-hour battery life.",
+          "image": "https://i5.walmartimages.com/seo/Joyfy-3-Pcs-Halloween-Hanging-Ghosts-Decorations-27-5-Cute-Flying-Ghosts-Outdoor-Hanging-Halloween-Decorations-Yard-Decorations_f5b095db-289c-4f4d-b3a8-461226e44b3f.c48c51bdba21f1e640049508c585848e.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+          "count": 1,
+          "purchasedAt": "2025-10-23T21:09:27.623Z"
+        },
+        {
+          "id": 6,
+          "name": "Cotton Graphic T-Shirt",
+          "category": "Clothing",
+          "price": 19.99,
+          "stock": 200,
+          "rating": 4.3,
+          "description": "Soft 100% cotton t-shirt with modern fit and stylish print.",
+          "image": "/images/products/tshirt.jpg",
+          "count": 1,
+          "purchasedAt": "2025-10-23T21:09:27.623Z"
+        }
+      ]
+    },
+    {
+      "orders": [],
+      "id": 3,
+      "purchasedItems": [
+        {
+          "id": 5,
+          "name": "Mechanical Gaming Keyboard",
+          "category": "Electronics",
+          "price": 129,
+          "stock": 48,
+          "rating": 4.9,
+          "description": "RGB backlit keyboard with tactile switches and metal frame.",
+          "image": "/images/products/gaming-keyboard.jpg",
+          "count": 1,
+          "purchasedAt": "2025-10-27T07:13:50.536Z"
+        },
+        {
+          "id": 3,
+          "name": "Stainless Steel Water Bottle",
+          "category": "Lifestyle",
+          "price": 24.5,
+          "stock": 120,
+          "rating": 4.8,
+          "description": "Insulated bottle keeps drinks cold for 24h or hot for 12h.",
+          "image": "/images/products/water-bottle.jpg",
+          "count": 1,
+          "purchasedAt": "2025-10-27T07:13:50.536Z"
+        },
+        {
+          "createdAt": "2025-10-26T22:56:57.358Z",
+          "updatedAt": "2025-10-26T22:56:57.358Z",
+          "name": "Wireless Bluetooth Headphones11",
+          "price": "89.99",
+          "category": "Electronics",
+          "stock": "32",
+          "description": "Noise-cancelling over-ear headphones with 30-hour battery life.",
+          "image": "https://i5.walmartimages.com/seo/Joyfy-3-Pcs-Halloween-Hanging-Ghosts-Decorations-27-5-Cute-Flying-Ghosts-Outdoor-Hanging-Halloween-Decorations-Yard-Decorations_f5b095db-289c-4f4d-b3a8-461226e44b3f.c48c51bdba21f1e640049508c585848e.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF",
+          "id": 1,
+          "count": 1,
+          "purchasedAt": "2025-10-27T07:13:50.536Z"
+        }
+      ]
+    }
+  ]
+}
